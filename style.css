@@ -1,0 +1,57 @@
+* {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-color: black;
+  background-image: url("https://img.freepik.com/free-vector/blue-gradient-background-illustration_53876-116696.jpg?semt=ais_hybrid&w=740");
+  background-size: cover;
+}
+
+form {
+  width: 30%;
+  background-color: white;
+  padding: 50px;
+  border-radius: 20px;
+  margin-top: 30px;
+}
+
+.btn-primary {
+  width: 100%;
+  border: none;
+  border-radius: 50px;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(75, 14, 154, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+h4 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+footer {
+  margin-top: 513px;
+}
+
+.loginfooter {
+  margin-top: 73px;
+}
+
+.signupfooter {
+  margin-top: 52px;
+}
+
+.contactfooter {
+  margin-top: 59px;
+}
